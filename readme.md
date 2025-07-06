@@ -10,7 +10,7 @@ This is a fullstack web application using an Express.js frontend and a Flask bac
 - View submitted data at `/view`
 - Dockerized architecture
 - Docker Compose for service orchestration
-- Code pushed to GitHub and images to Docker Hub
+- Code pushed to GitHub and images to Docker hub
 
 
 
